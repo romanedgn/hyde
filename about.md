@@ -3,11 +3,8 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! 
-</p>
 
-My name is Romane and I'm an MA student in Digital Humanities at King's College London.
+Hey there! My name is Romane and I'm an MA student in Digital Humanities at King's College London.
 
 I love data, and more specifically love analysing data with R. I also love books and using new media to tell engaging stories. 
 
